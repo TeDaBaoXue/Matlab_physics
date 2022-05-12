@@ -1,6 +1,0 @@
-theta=0:0.1:2*pi;
-m=input('m=');
-n=input('n=');
-x=cos(m*theta);
-y=sin(n*theta);
-plot(x,y);
